@@ -1,0 +1,13 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 6865-FCD1
+
+ Directory of C:\Users\SHAILESH\Desktop\GitLab\FirstProject
+
+09/07/2021  08:46 AM    <DIR>          .
+09/07/2021  08:46 AM    <DIR>          ..
+09/07/2021  07:28 AM    <DIR>          css
+09/07/2021  08:46 AM                 0 demo.txt
+07/25/2021  07:36 PM               545 index.html
+09/07/2021  07:30 AM                13 welcome.txt
+               3 File(s)            558 bytes
+               3 Dir(s)  40,584,781,824 bytes free
